@@ -6,7 +6,6 @@
  * 
  * 	공정, 기아, 교착상태 발생하지 않게끔 처리를 해줘야한다.
  * 
- * 	
 */
 
 class ATM implements Runnable {

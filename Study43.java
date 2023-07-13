@@ -38,7 +38,7 @@ public class Study43 implements Runnable { // implements Runnable
 //		Thread th = new Thread(st);
 //		th.setName("첫번째");
 //		th.start();
-
+//
 // 두번째 방법
 		Thread th = new Thread(st, "첫번째");
 		th.start();
